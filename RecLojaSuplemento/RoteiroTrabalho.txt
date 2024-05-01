@@ -1,0 +1,19 @@
+Para esse projeto de implementação, você precisará seguir algumas etapas:
+
+Escolha da Temática e Tecnologia: Decida sobre a temática do projeto e a tecnologia a ser utilizada. Baseado nas sugestões dadas, escolha algo que vocês tenham interesse em desenvolver e que possa ser implementado dentro das tecnologias que vocês conhecem ou estão dispostos a aprender.
+
+Definição das Entidades/Classes: Identifique pelo menos 3 entidades ou classes que serão essenciais para o funcionamento do projeto. Elas devem refletir a lógica de negócio do sistema.
+
+Desenvolvimento das Entidades/Classes: Implemente as entidades ou classes em sua linguagem de programação escolhida, aplicando os conceitos de orientação a objetos de forma adequada.
+
+Funcionalidades do Sistema: Desenvolva funcionalidades que permitam gerenciar o cadastro das entidades/classes. Isso deve ir além do básico CRUD, incluindo alguma lógica adicional que demonstre a aplicação dos conceitos estudados.
+
+Documentação: Gere o Javadoc para o seu projeto, garantindo que as classes e métodos estejam devidamente comentados para facilitar a compreensão do código por outros desenvolvedores.
+
+README.txt: Crie um arquivo README.txt contendo informações essenciais sobre o projeto, incluindo título, descrição do propósito do projeto, instruções de instalação, lista de funcionalidades implementadas e lista de funcionalidades desejadas (ToDo).
+
+Desenvolvimento e Relatórios: Mantenha um registro de desenvolvimento (devlog) descrevendo as decisões tomadas, as dificuldades encontradas, as datas e locais das reuniões, além das tarefas atribuídas a cada membro da equipe. Esse registro será usado para criar o relatório final em formato PDF, que também pode incluir diagramas UML, capturas de tela e outras formas de documentação do projeto.
+
+Entrega do Projeto: Compilar todos os documentos e arquivos do projeto em um arquivo .zip e fazer a entrega através do SIGAA, seguindo as instruções fornecidas.
+
+Certifique-se de manter uma comunicação constante com seu parceiro de equipe e com o professor ao longo do projeto para garantir que tudo esteja seguindo conforme o esperado e esclarecer eventuais dúvidas que possam surgir. Boa sorte!
